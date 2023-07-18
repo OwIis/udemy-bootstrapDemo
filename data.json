@@ -1,0 +1,65 @@
+{
+    "soccer": {
+        "name" : "Soccer",
+        "subscribers": "800000",
+        "description": " the football subreddit",
+        "posts": [
+            {
+                "title": "marten de roon11111",
+                "author": "joeextreme11111"
+            },
+            {
+                "title": "marten de roon2222",
+                "author": "joeextreme222222"
+            },
+            {
+                "title": "marten de roon33333",
+                "author": "joeextreme33333"
+            }
+        ]
+    },
+    "chicken": {
+        "name" : "Chickens",
+        "subscribers": "2356",
+        "description": " chicken subreddit",
+        "posts": [
+            {
+                "title": "chicken marten de roon11111",
+                "author": "joeextreme11111",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS38P-tRZ9_aMNz9a0zL_gKGVdERh1D2c1m0qawp9uLVbkkQO4nbKTDg7HKlyXEq30JV5U&usqp=CAU"
+            },
+            {
+                "title": "chicken marten de roon2222",
+                "author": "joeextreme222222",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfY9SjC2CUgWwdZgvWbOsrHDP5UptUDE9xXQ&usqp=CAU"
+            },
+            {
+                "title": "chicken marten de roon33333",
+                "author": "joeextreme33333",
+                "img": "https://morningchores.com/wp-content/uploads/2019/03/chicken-221993_640.jpg"
+            }
+        ]
+    },
+    "fruit": {
+        "name" : "Fruit",
+        "subscribers": "235006",
+        "description": " fruit subreddit",
+        "posts": [
+            {
+                "title": "fruit marten de roon11111",
+                "author": "joeextreme11111",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLSwh4u4JkRpPK65D7FUcwfIO998mYl4c_gg&usqp=CAU"
+            },
+            {
+                "title": "fruit marten de roon2222",
+                "author": "joeextreme222222",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeEhwKNjH-lzLJBxFJZLp3bsMO5FlN-ImK_A&usqp=CAU"
+            },
+            {
+                "title": "fruit marten de roon33333",
+                "author": "joeextreme33333",
+                "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfB_9w3dg_PS8vkO1OLIGSGfEoNG2RzFtI-g&usqp=CAU"
+            }
+        ]
+    }
+}
